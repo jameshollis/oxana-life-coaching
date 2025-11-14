@@ -1,0 +1,20 @@
+{
+  "name": "oxana-life-coaching",
+  "version": "1.0.0",
+  "description": "Life coaching business website for Oxana",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "life-coaching",
+    "wellness",
+    "personal-development"
+  ],
+  "author": "Oxana",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
