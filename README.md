@@ -4,7 +4,7 @@ A professional life and confidence coaching website helping ambitious profession
 
 ## 🌐 Live Website
 
-**https://chic-alpaca-2cfd8a.netlify.app/**
+**https://oxana-life-coaching.netlify.app/**
 
 ## 📦 Repository
 
