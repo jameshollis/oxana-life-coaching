@@ -2,6 +2,14 @@
 
 A professional life and confidence coaching website helping ambitious professionals overcome impostor syndrome, build executive presence, and thrive.
 
+## 🌐 Live Website
+
+**https://chic-alpaca-2cfd8a.netlify.app/**
+
+## 📦 Repository
+
+**https://github.com/jameshollis/oxana-life-coaching**
+
 ## Brand Positioning
 
 **Oxana is a life and confidence coach who helps ambitious professionals overcome impostor syndrome, strengthen their executive presence, manage stress, and build the confidence they need to thrive in both work and life. Through warm, personalised 1:1 coaching, she guides people through change, builds emotional resilience, and supports the creation of healthy habits and a balanced lifestyle.**
